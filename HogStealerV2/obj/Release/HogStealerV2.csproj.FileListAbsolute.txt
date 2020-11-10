@@ -1,0 +1,17 @@
+C:\HogStealer\HogStealerV2\bin\Release\HogStealerV2.exe
+C:\HogStealer\HogStealerV2\obj\Release\HogStealerV2.csprojAssemblyReference.cache
+C:\HogStealer\HogStealerV2\obj\Release\HogStealerV2.csproj.CoreCompileInputs.cache
+C:\HogStealer\HogStealerV2\obj\Release\HogStealerV2.exe
+C:\HogStealer\HogStealerV2\obj\Release\HogStealerV2.Properties.Resources.resources
+C:\HogStealer\HogStealerV2\obj\Release\HogStealerV2.csproj.GenerateResource.cache
+D:\HogStealerV2\bin\Release\HogStealerV2.exe
+D:\HogStealerV2\obj\Release\HogStealerV2.csprojAssemblyReference.cache
+D:\HogStealerV2\obj\Release\HogStealerV2.Properties.Resources.resources
+D:\HogStealerV2\obj\Release\HogStealerV2.csproj.GenerateResource.cache
+D:\HogStealerV2\obj\Release\HogStealerV2.exe
+F:\HogStealerV2\bin\Release\HogStealerV2.exe
+F:\HogStealerV2\obj\Release\HogStealerV2.csprojAssemblyReference.cache
+F:\HogStealerV2\obj\Release\HogStealerV2.Properties.Resources.resources
+F:\HogStealerV2\obj\Release\HogStealerV2.csproj.GenerateResource.cache
+F:\HogStealerV2\obj\Release\HogStealerV2.csproj.CoreCompileInputs.cache
+F:\HogStealerV2\obj\Release\HogStealerV2.exe
